@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodlerooms.bbclassroom"
+        id        = "com.toynbeehall.mobileapp"
         versionCode = "20160"
         version   = "3.2.0">
-    <name>Bb Classroom</name>
+    <name>Toynbee Hall</name>
 
     <description>
-       Bb Classroom
+      Toynbee Hall Mobile Learning App
     </description>
 
-    <author href="http://moodlerooms.com" email="mobile@moodlerooms.com">
-        Bb Classroom
+    <author href="http://www.toynbeehall.org.uk" email="mobile@toynbeehall.org.uk">
+        Toynbee Hall
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
