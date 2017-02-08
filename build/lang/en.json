@@ -296,7 +296,7 @@
     "mm.login.missinglastname": "Missing surname",
     "mm.login.mobileservicesnotenabled": "Mobile Services are not enabled in your site. Please, contact your site administrator if you think mobile access should be enabled.",
     "mm.login.newaccount": "New account",
-    "mm.login.newsitedescription": "Please enter the URL of the site.",
+    "mm.login.newsitedescription": "Click the button below to get started.",
     "mm.login.notloggedin": "You need to be logged in.",
     "mm.login.password": "Password",
     "mm.login.passwordrequired": "Password required",
