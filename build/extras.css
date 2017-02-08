@@ -100,7 +100,7 @@ border-top: none;
     border-left: none;
     border-right: none;
     border-bottom: none;
-    border-top: 1px dashed #fff;
+    border-top: 1px solid #387ef5;
     margin-top:10px;
    background: transparent;
     
@@ -487,4 +487,8 @@ div.dark .item {
 
 ion-content.has-side-menu-header.scroll-content.ionic-scroll {
     background: #333333;
+}
+
+p {
+color:#fff;
 }
