@@ -77,28 +77,28 @@ a.tab-item.active {
 
 
 .list.card {
-     border-top: 4px solid #c472d4;
-    border-left: 1px solid #e5e5e5;
-    border-right: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
+     border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
     margin:10px;
 }
 
 .eventlink {
-     border-top: 4px solid #c472d4;
-    border-left: 1px solid #e5e5e5;
-    border-right: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
+     border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
     margin:10px;
     background:#fff;
 }
 
 
 a.item.item-media.item-text-wrap {
-border-top: 4px solid #c472d4;
-    border-left: 1px solid #e5e5e5;
-    border-right: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
+border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
     margin:10px;
     background:#fff;
 }
@@ -451,7 +451,7 @@ input[type=url] {
 }
     
     .greypage {
-    background: #f0f0f0;
+    background: #333333;
     }
 
 
