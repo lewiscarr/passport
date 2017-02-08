@@ -19,18 +19,18 @@
        
         <div class="loginform">
        
-      <form class="loginform">
-          <ion-input class="item item-input item-stacked-label" style="color:#fff">
-            <ion-label>{{ 'mm.login.siteaddress' | translate }}</ion-label>
-            <input type="url" placeholder="yoursite.mrooms.net" ng-model="siteurl" mm-no-input-validation mm-auto-focus >
-          </ion-input>
-          <div class="item item-input padding">
-              <button class="button button-block" ng-click="connect(siteurl)" ng-disabled="!siteurl">{{ 'mm.login.connect' | translate }}</button>
+<form class="loginform">
+           
+           
+            <label class="item item-input item-stacked-label">
+            
+            <input type="hidden" name="url" placeholder="https://moneymentors.corg.uk" ng-init="siteurl='https://moneymentors.org.uk'" ng-model="siteurl" mm-no-input-validation mm-auto-focus >
+          </label>
+          <div class="padding">
+              <button class="button button-block" ng-click="connect(siteurl)">{{ 'mm.login.connect' | translate }}</button>
               <!-- <input type="submit" class="button button-block" value="{{ 'mm.login.connect' | translate }}" > -->
           </div>
-       
-      
-       </form>            
+          </form>           
        </div>
           </div>
     
