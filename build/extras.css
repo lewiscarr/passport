@@ -367,8 +367,8 @@ color:#fff;
 }
 
 .item.item-divider h2 {
-    background: #fff;
-    color:#000;
+    background: transparent;
+    color:#fff;
     padding:0px;
     font-weight:bold;
    
