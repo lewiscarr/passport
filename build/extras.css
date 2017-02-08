@@ -101,9 +101,14 @@ border-top: none;
     border-bottom: none;
     margin-top:10px;
    
-    background:#fff;
-    color:#333333;
     
+    
+}
+
+a.item.item-media.item-text-wrap img {
+   
+    border-radius: 150%;
+    background: #fff;
 }
 
 
