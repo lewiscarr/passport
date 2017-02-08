@@ -445,20 +445,24 @@ input[type=url] {
 }
 
 .loginform .button.button-block {
-    
-    margin:10px;
+    margin-left:10px;
+    margin-right:10px;
 }
 /* Buttons */
 .loginform a.button.button-block {
     background: #333333;
     border: 1px solid #fff;
     color: #fff;
+     margin-left:10px;
+    margin-right:10px;
   
 }
 .loginform a.button.button-block:hover {
     background: #333333;
     border: 1px solid #fff;
     color: #fff;
+     margin-left:10px;
+    margin-right:10px;
 }
     
     .greypage {
