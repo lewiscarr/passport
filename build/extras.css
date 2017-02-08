@@ -82,6 +82,7 @@ a.tab-item.active {
     border-right: none;
     border-bottom: none;
     margin:10px;
+    background: #fff;
 }
 
 .eventlink {
@@ -107,8 +108,7 @@ border-top: none;
 
 a.item.item-media.item-text-wrap img {
    
-    border-radius: 150%;
-    background: #fff;
+    display:none;
 }
 
 
