@@ -492,3 +492,8 @@ ion-content.has-side-menu-header.scroll-content.ionic-scroll {
 p {
 color:#fff;
 }
+
+
+.atto_bsgrid.container-fluid {
+    display: none;
+}
