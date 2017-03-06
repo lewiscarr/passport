@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.toynbeehall.mobileapp"
+        id        = "com.adaptivle.madscience"
         versionCode = "20160"
         version   = "3.2.1">
-    <name>Toynbee Hall</name>
+    <name>Mad Science Mobile Learning App</name>
 
     <description>
-      Toynbee Hall Mobile Learning App
+      Mad Science Mobile Learning App
     </description>
 
-    <author href="http://www.toynbeehall.org.uk" email="mobile@toynbeehall.org.uk">
-        Toynbee Hall
+    <author href="https://www.adaptivle.co.uk/" email="sales@adaptivle.co.uk">
+       adaptiVLE Ltd.
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
