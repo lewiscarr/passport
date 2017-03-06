@@ -1,2 +1,2 @@
-# moodlerooms32
-Moodlerooms Mobile App 3.2
+# Mad Science
+Mad Science Mobile App 3.2
