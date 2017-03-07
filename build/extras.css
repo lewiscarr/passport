@@ -61,6 +61,17 @@ a.tab-item.active {
 }
 
 
+
+.sidebarlogo {
+ height: 200px;
+  
+    background: url("../img/extras/logo.png");
+    -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+}
+
 /* Menu logo custom hack */
 .menulogo {
     background: url("../img/extras/logo.png");
