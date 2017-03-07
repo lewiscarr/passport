@@ -148,7 +148,7 @@ a.button.button-block:hover {
 
 /* makes menu blur background */
 .menu {
-    background: #503181;
+     background: #ff7f41 url("../img/extras/blur.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
