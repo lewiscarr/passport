@@ -530,5 +530,10 @@ color:#fff;
 
 .item.item-text-wrap {
     background: #fff;
-    border-radius: 12px;
+    
+}
+
+
+a.item.item-media.item-text-wrap {
+    background: #503181;
 }
