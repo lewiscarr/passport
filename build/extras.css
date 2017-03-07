@@ -18,7 +18,7 @@ body,html{
 }
 .scroll-content {
     padding: 0px;
-    background:#333333;
+    background:#503181;
 }
 .item {
     border: none;
@@ -27,7 +27,7 @@ body,html{
 
 /* Top Bar colour used across app */
 .bar-content {
-    background-color: #333333;
+    background-color: #503181;
     
 }
 
@@ -53,7 +53,7 @@ a.tab-item.active {
 .loginbg {
  height: 100%;
   
-    background-color:#333333; 
+    background-color:#503181; 
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -118,13 +118,13 @@ border-top: none;
 
 /* Buttons */
 a.button.button-block {
-    background: #333333;
+    background: #503181;
     border: 1px solid #fff;
     color: #fff;
     margin:10px;
 }
 a.button.button-block:hover {
-    background: #333333;
+    background: #503181;
     border: 1px solid #fff;
     color: #fff;
     margin:10px;
@@ -148,7 +148,7 @@ a.button.button-block:hover {
 
 /* makes menu blur background */
 .menu {
-    background: #333333;
+    background: #503181;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -176,14 +176,14 @@ a.item.item-icon-left {
     color: #fff;
 }
 button.button.button-block {
-    background: #333333;
+    background: #503181;
     border: 1px solid #fff;
     color: #fff;
 }
 
 /* custom hack */
 .courseheader {
-    background: #333333 url("../img/extras/mycourses.png");
+    background: #503181 url("../img/extras/mycourses.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -195,7 +195,7 @@ button.button.button-block {
 
 /* custom hack */
 .courselistbg {
-    background: #333333 url("../img/extras/courselist.png");
+    background: #503181 url("../img/extras/courselist.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -220,7 +220,7 @@ button.button.button-block {
 
 /* custom hack */
 .coursesection {
-    background: #333333 url("../img/extras/coursesection.png");
+    background: #503181 url("../img/extras/coursesection.png");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -277,7 +277,7 @@ button.button.button-block {
 .credentialsbg {
     padding: 25px 5px 25px 5px;
     text-align: center;
-     background: #333333;
+     background: #503181;
     margin-top:0px;
     margin-bottom: 20px;
     color: #fff;
@@ -291,7 +291,7 @@ text-align: center;
 .profilebg {
     padding: 25px 5px 25px 5px;
     text-align: center;
-     background: #333333;
+     background: #503181;
     color:#fff;
 }
 
@@ -300,7 +300,7 @@ text-align: center;
  padding: 25px 5px 150px 5px;
     text-align: center;
     color:#fff;
-    background: #333333
+    background: #503181
     margin-top:25px;
     margin-bottom:25px;
     
@@ -400,7 +400,7 @@ span.item-note.ng-binding {
 
 
 .profilebg {
- background: #333333;
+ background: #503181;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -432,7 +432,7 @@ background:  url("../img/extras/events.png");
 }
 
 .eventsheader .item {
-background: #333333;
+background: #503181;
 }
 
 input[type=url] {
@@ -442,7 +442,7 @@ input[type=url] {
 
     
   .loginform input {
- background: #333333;
+ background: #503181;
       border-bottom: 1px solid #fff;
       border-top:none;
       border-left:none;
@@ -456,7 +456,7 @@ input[type=url] {
 }
 /* Buttons */
 .loginform a.button.button-block {
-    background: #333333;
+    background: #503181;
     border: 1px solid #fff;
     color: #fff;
      margin-left:10px;
@@ -464,7 +464,7 @@ input[type=url] {
   
 }
 .loginform a.button.button-block:hover {
-    background: #333333;
+    background: #503181;
     border: 1px solid #fff;
     color: #fff;
      margin-left:10px;
@@ -472,7 +472,7 @@ input[type=url] {
 }
     
     .greypage {
-    background: #333333;
+    background: #503181;
     }
 
 
@@ -485,18 +485,18 @@ border-color: #c46ed1;
 }
 
 div.dark a.item.item-icon-left {
-    background: #333333;
+    background: #503181;
     color: #fff;
 }
 
 div.dark .item {
-    background: #333333;}
+    background: #503181;}
 .dark .item {
-    background: #333333;}
+    background: #503181;}
 
 
 ion-content.has-side-menu-header.scroll-content.ionic-scroll {
-    background: #333333;
+    background: #503181;
 }
 
 p {
