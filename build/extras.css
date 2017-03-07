@@ -527,3 +527,8 @@ color:#fff;
 .item.item-avatar p {
     color: #fff;
 }
+
+.item.item-text-wrap {
+    background: #fff;
+    border-radius: 12px;
+}
