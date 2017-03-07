@@ -33,7 +33,7 @@ body,html{
 
 /* The icons used on my courses - participants etc */
 a.tab-item.active {
-    color: #c472d4;
+    color: #503181;
     border-radius: 7px;
     font-weight: bold;
 }
@@ -391,7 +391,7 @@ color:#fff;
 
 
 span.item-note.ng-binding {
-    background: #c472d4;
+    background: #503181;
     border-radius: 5px;
     color: #fff;
     padding: 5px;
@@ -485,7 +485,7 @@ border-color: #c46ed1;
 }
 
 div.dark a.item.item-icon-left {
-    background: #503181;
+    background: transparent;
     color: #fff;
 }
 
