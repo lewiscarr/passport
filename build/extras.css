@@ -529,13 +529,21 @@ color:#fff;
 }
 
 .item.item-text-wrap {
-    background: #fff;
+    background: #503181;
+    color:#fff;
     margin: 30px;
+}
+
+.item.item-text-wrap a{
+   
+    color:#fff;
+   
 }
 
 
 a.item.item-media.item-text-wrap {
     background: #503181;
+    border-top:2px solid #d9d536;
 }
 
 
