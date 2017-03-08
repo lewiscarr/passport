@@ -63,13 +63,14 @@ a.tab-item.active {
 
 
 .sidebarlogo {
- height: 200px;
+ height: 100px;
   
     background: url("../img/extras/logo.png");
     -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
+    background-repeat: no-repeat;
 }
 
 /* Menu logo custom hack */
@@ -143,7 +144,7 @@ a.button.button-block:hover {
 
 /* Turns off bg colour of menu */
 .bar-side-menu {
-    background-color: transparent;
+    background-color: #503181;
 }
 /* Hides divider in menu */
 .list.dark .item.item-divider {
