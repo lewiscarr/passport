@@ -65,7 +65,7 @@ a.tab-item.active {
 .sidebarlogo {
  height: 100px;
   
-    background: url("../img/extras/logo.png");
+    background: #503181 url("../img/extras/logo.png");
     -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
