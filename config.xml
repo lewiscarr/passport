@@ -5,10 +5,10 @@
         id        = "com.adaptivle.madscience"
         versionCode = "20160"
         version   = "3.2.1">
-    <name>Mad Science Mobile Learning App</name>
+    <name>Mad Science Training</name>
 
     <description>
-      Mad Science Mobile Learning App
+      Mad Science Training
     </description>
 
     <author href="https://www.adaptivle.co.uk/" email="sales@adaptivle.co.uk">
