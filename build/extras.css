@@ -537,3 +537,8 @@ color:#fff;
 a.item.item-media.item-text-wrap {
     background: #503181;
 }
+
+
+.coursesection a.item {
+    background: red;
+}
