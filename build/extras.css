@@ -71,6 +71,7 @@ a.tab-item.active {
   -o-background-size: contain;
   background-size: contain;
     background-repeat: no-repeat;
+    border-bottom:2px solid #d9d536;
 }
 
 /* Menu logo custom hack */
