@@ -530,7 +530,7 @@ color:#fff;
 
 .item.item-text-wrap {
     background: #fff;
-    
+    margin: 30px;
 }
 
 
@@ -540,5 +540,7 @@ a.item.item-media.item-text-wrap {
 
 
 .coursesections a.item {
-    background: red;
+    background: #7072b4;
+    margin:30px;
+    padding:20px;
 }
