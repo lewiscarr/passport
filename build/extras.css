@@ -530,10 +530,12 @@ color:#fff;
 }
 
 .item.item-text-wrap {
-    background: #503181;
-    color:#fff;
+    background: transparent;
+   
     margin: 30px;
 }
+
+
 
 .item.item-text-wrap a{
    
